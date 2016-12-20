@@ -1,4 +1,4 @@
-# eclipe_java_format
+# eclipse_java_format
 eclipse_java_format  java开发规范   
 
 打开eclipse---preferences-java-code style - 
